@@ -1,0 +1,21 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node (si en el futuro usas npm)
+node_modules/
+
+# Editor: WebStorm / JetBrains
+.idea/
+
+# Editor: VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+ehthumbs.db
+Icon?
+desktop.ini
